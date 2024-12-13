@@ -20,8 +20,8 @@ This project allows users to visualize data in a dynamic bar chart using Chart.j
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/DzsangaGIT/bar-chart-html.git
-   cd bar-chart-html
+   git clone https://github.com/DzsangaGIT/Bar-Chart-HTML.git
+   cd Bar-Chart-HTML
    ```
 
 2. **Open `index.html`**:
