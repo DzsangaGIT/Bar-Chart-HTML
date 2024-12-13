@@ -14,13 +14,13 @@ th, td {
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: rgba(75, 192, 192, 0.6);
 }
 
 button {
     padding: 10px 20px;
-    background-color: #000000;
-    color: white;
+    background-color: rgba(75, 192, 192, 0.6);
+    color: black;
     border: none;
     cursor: pointer;
     margin: 20px auto;
@@ -33,11 +33,11 @@ td:hover {
 }
 
 th:hover {
-    background-color: #d4d2d2;
+    background-color: rgba(75, 192, 192, 0.781);
 }
 button:hover{
     transition: all ease-in-out 0.5s;
     scale: 1.1;
-    background-color: #131313f1;
-    color: #ffffff;
+    background-color: rgba(75, 192, 192, 0.774);
+    color: black;
 }
