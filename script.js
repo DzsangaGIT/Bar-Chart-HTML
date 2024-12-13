@@ -37,10 +37,6 @@ document.getElementById('show-chart').addEventListener('click', function() {
             plugins: {
                 legend: {
                     position: 'top',
-                },
-                title: {
-                    display: true,
-                    text: 'Bar Chart'
                 }
             }
         }
@@ -55,3 +51,4 @@ document.getElementById('show-chart').addEventListener('click', function() {
 
     document.getElementById('chart-canvas').style.display = 'block';
 });
+ 
